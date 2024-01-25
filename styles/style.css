@@ -106,7 +106,7 @@ p {
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
-  line-height: 26px; /* 162.5% */
+  line-height: 26px;
 }
 .btn:hover {
   background-color: #ff4240;
